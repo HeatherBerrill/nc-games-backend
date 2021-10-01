@@ -57,7 +57,10 @@ const selectReviews = async (
     'social deduction',
     "children's games",
     'euro game',
-    'strategy'
+    'strategy',
+    'hidden-roles',
+    'push-your-luck',
+    'roll-and-write'
   ];
 
   if (category && validCategories.includes(category)) {
