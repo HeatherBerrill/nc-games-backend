@@ -2,7 +2,7 @@
 
 Heathers games API is hosted on heroku. Here is a link to the API...
 
-https://nc-games-heather.herokuapp.com/api
+https://nc-games-backend.herokuapp.com/api
 
 This project is an application programming interface, created to access information from a games database. This is a backend project which is designed to be connected to a front end.
 
@@ -47,14 +47,6 @@ https://github.com/HeatherBerrill/be-nc-games
   -- pg-format <br>
   -- jest-sorted <br>
   -- supertest <br>
-
-  - If any have not been installed this can be done manually <br> -- npm install -package name-<br>
-
-  - Don't worry if you are unsure whether they are installed or not. Installing them again will not cause issues, it will just update them.
-
-  - Any dependencies which are dev dependencies need to be installed with a D <br>
-    -- npm install -D -package name-
-    <br>
 
 <h4> This project has been created with node version 16.1.0 and postgres version 8.7.1. These are the minimum requirements needed to run the project. </h4> <br>
 <br> - - - - - - - - - - - - - - - - - - - - - - - - - - <br>
